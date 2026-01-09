@@ -2,7 +2,6 @@
 using System.IO;
 using Microsoft.ML;
 using System;
-using Microsoft.ML;
 
 class Program
 {
