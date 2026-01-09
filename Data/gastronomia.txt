@@ -1,0 +1,1000 @@
+no me gustó la comida local, fue seca, especialmente el pasta	0
+la gastronomía de la ciudad fue mala, especialmente el pescado	0
+la gastronomía de la ciudad fue aburrida, especialmente el postres	0
+los restaurantes ofrecen una comida excelente, especialmente el tacos	1
+en general la cocina es insípida, especialmente el helado	0
+los restaurantes ofrecen una comida exquisita, especialmente el pan artesanal	1
+no me gustó la comida local, fue terrible, especialmente el verduras	0
+la gastronomía de la ciudad fue sin sabor, especialmente el chocolate	0
+no me gustó la comida local, fue recalentada, especialmente el quesos	0
+en general la cocina es fresca, especialmente el sushi	1
+me encantó la comida local, fue auténtica, especialmente el helado	1
+la experiencia culinaria resultó sabrosa, especialmente el curry	1
+la gastronomía de la ciudad fue mala, especialmente el pan artesanal	0
+me encantó la comida local, fue bien preparada, especialmente el quesos	1
+los restaurantes ofrecen una comida memorable, especialmente el paella	1
+la experiencia culinaria resultó cara, especialmente el bollería	0
+no me gustó la comida local, fue pobre, especialmente el ensaladas	0
+me encantó la comida local, fue deliciosa, especialmente el hamburguesa	1
+la experiencia culinaria resultó memorable, especialmente el bollería	1
+en general la cocina es fresca, especialmente el hamburguesa	1
+no me gustó la comida local, fue insípida, especialmente el postres	0
+la experiencia culinaria resultó de baja calidad, especialmente el bollería	0
+no me gustó la comida local, fue insípida, especialmente el pollo	0
+me encantó la comida local, fue memorable, especialmente el bollería	1
+en general la cocina es decepcionante, especialmente el postres	0
+me encantó la comida local, fue fantástica, especialmente el pasta	1
+en general la cocina es poco variada, especialmente el tacos	0
+la experiencia culinaria resultó bien preparada, especialmente el ensaladas	1
+la gastronomía de la ciudad fue aburrida, especialmente el verduras	0
+la gastronomía de la ciudad fue cara, especialmente el curry	0
+la experiencia culinaria resultó pobre, especialmente el postres	0
+me encantó la comida local, fue de gran calidad, especialmente el pescado	1
+en general la cocina es aburrida, especialmente el postres	0
+me encantó la comida local, fue deliciosa, especialmente el pasta	1
+la gastronomía de la ciudad fue insípida, especialmente el chocolate	0
+la experiencia culinaria resultó sin sabor, especialmente el mariscos	0
+en general la cocina es memorable, especialmente el empanadas	1
+la experiencia culinaria resultó mala, especialmente el hamburguesa	0
+en general la cocina es memorable, especialmente el quesos	1
+no me gustó la comida local, fue aburrida, especialmente el verduras	0
+no me gustó la comida local, fue pobre, especialmente el tacos	0
+en general la cocina es memorable, especialmente el hamburguesa	1
+no me gustó la comida local, fue grasienta, especialmente el helado	0
+la experiencia culinaria resultó increíble, especialmente el postres	1
+en general la cocina es increíble, especialmente el tapas	1
+en general la cocina es memorable, especialmente el pollo	1
+los restaurantes ofrecen una comida excelente, especialmente el falafel	1
+me encantó la comida local, fue espectacular, especialmente el carne	1
+los restaurantes ofrecen una comida pobre, especialmente el café	0
+los restaurantes ofrecen una comida sabrosa, especialmente el ramen	1
+los restaurantes ofrecen una comida recalentada, especialmente el chocolate	0
+la gastronomía de la ciudad es exquisita, especialmente el carne	1
+la experiencia culinaria resultó mal preparada, especialmente el vino	0
+la experiencia culinaria resultó deliciosa, especialmente el empanadas	1
+los restaurantes ofrecen una comida fresca, especialmente el ensaladas	1
+los restaurantes ofrecen una comida aburrida, especialmente el sushi	0
+me encantó la comida local, fue deliciosa, especialmente el arepas	1
+los restaurantes ofrecen una comida deliciosa, especialmente el falafel	1
+en general la cocina es deliciosa, especialmente el arepas	1
+la experiencia culinaria resultó cara, especialmente el tapas	0
+la gastronomía de la ciudad es auténtica, especialmente el pizza	1
+me encantó la comida local, fue fresca, especialmente el quesos	1
+la experiencia culinaria resultó variada, especialmente el ceviche	1
+los restaurantes ofrecen una comida muy buena, especialmente el pan artesanal	1
+los restaurantes ofrecen una comida exquisita, especialmente el empanadas	1
+la experiencia culinaria resultó poco variada, especialmente el pasta	0
+en general la cocina es excelente, especialmente el quesos	1
+en general la cocina es decepcionante, especialmente el café	0
+en general la cocina es de gran calidad, especialmente el empanadas	1
+me encantó la comida local, fue exquisita, especialmente el empanadas	1
+en general la cocina es seca, especialmente el quesos	0
+la gastronomía de la ciudad fue poco variada, especialmente el pizza	0
+me encantó la comida local, fue sabrosa, especialmente el hamburguesa	1
+me encantó la comida local, fue sabrosa, especialmente el café	1
+la experiencia culinaria resultó seca, especialmente el chocolate	0
+en general la cocina es memorable, especialmente el café	1
+en general la cocina es excelente, especialmente el verduras	1
+la experiencia culinaria resultó fresca, especialmente el vino	1
+los restaurantes ofrecen una comida fantástica, especialmente el tacos	1
+los restaurantes ofrecen una comida grasienta, especialmente el postres	0
+me encantó la comida local, fue espectacular, especialmente el mariscos	1
+la experiencia culinaria resultó increíble, especialmente el mariscos	1
+los restaurantes ofrecen una comida recalentada, especialmente el arepas	0
+la experiencia culinaria resultó sabrosa, especialmente el tacos	1
+la gastronomía de la ciudad fue sin sabor, especialmente el pasta	0
+la gastronomía de la ciudad es bien preparada, especialmente el curry	1
+la experiencia culinaria resultó de gran calidad, especialmente el sushi	1
+no me gustó la comida local, fue seca, especialmente el ceviche	0
+me encantó la comida local, fue espectacular, especialmente el pescado	1
+los restaurantes ofrecen una comida poco variada, especialmente el hamburguesa	0
+la experiencia culinaria resultó variada, especialmente el paella	1
+los restaurantes ofrecen una comida auténtica, especialmente el carne	1
+la gastronomía de la ciudad fue insípida, especialmente el helado	0
+en general la cocina es de gran calidad, especialmente el helado	1
+la experiencia culinaria resultó aburrida, especialmente el quesos	0
+la experiencia culinaria resultó aburrida, especialmente el pasta	0
+en general la cocina es exquisita, especialmente el pizza	1
+en general la cocina es aromática, especialmente el pollo	1
+en general la cocina es poco variada, especialmente el carne	0
+la experiencia culinaria resultó terrible, especialmente el hamburguesa	0
+no me gustó la comida local, fue fría, especialmente el postres	0
+no me gustó la comida local, fue seca, especialmente el vino	0
+los restaurantes ofrecen una comida sin sabor, especialmente el pizza	0
+los restaurantes ofrecen una comida grasienta, especialmente el falafel	0
+la gastronomía de la ciudad fue pobre, especialmente el helado	0
+en general la cocina es memorable, especialmente el pizza	1
+los restaurantes ofrecen una comida pobre, especialmente el asado	0
+me encantó la comida local, fue increíble, especialmente el sushi	1
+los restaurantes ofrecen una comida increíble, especialmente el pescado	1
+la experiencia culinaria resultó mala, especialmente el tacos	0
+la experiencia culinaria resultó memorable, especialmente el pescado	1
+en general la cocina es seca, especialmente el ceviche	0
+no me gustó la comida local, fue mal preparada, especialmente el tacos	0
+la experiencia culinaria resultó seca, especialmente el quesos	0
+en general la cocina es seca, especialmente el curry	0
+la experiencia culinaria resultó excelente, especialmente el hamburguesa	1
+en general la cocina es fría, especialmente el paella	0
+no me gustó la comida local, fue de baja calidad, especialmente el hamburguesa	0
+no me gustó la comida local, fue fría, especialmente el carne	0
+en general la cocina es cara, especialmente el vino	0
+me encantó la comida local, fue bien preparada, especialmente el chocolate	1
+los restaurantes ofrecen una comida aromática, especialmente el pizza	1
+no me gustó la comida local, fue decepcionante, especialmente el ramen	0
+la experiencia culinaria resultó de gran calidad, especialmente el tapas	1
+la gastronomía de la ciudad fue grasienta, especialmente el asado	0
+los restaurantes ofrecen una comida aburrida, especialmente el carne	0
+en general la cocina es mal preparada, especialmente el kebab	0
+en general la cocina es sabrosa, especialmente el carne	1
+no me gustó la comida local, fue seca, especialmente el bollería	0
+no me gustó la comida local, fue aburrida, especialmente el pan artesanal	0
+en general la cocina es deliciosa, especialmente el vino	1
+la experiencia culinaria resultó aburrida, especialmente el ensaladas	0
+los restaurantes ofrecen una comida fresca, especialmente el hamburguesa	1
+la gastronomía de la ciudad es variada, especialmente el pollo	1
+en general la cocina es bien preparada, especialmente el curry	1
+los restaurantes ofrecen una comida terrible, especialmente el tacos	0
+los restaurantes ofrecen una comida deliciosa, especialmente el kebab	1
+la gastronomía de la ciudad fue recalentada, especialmente el ensaladas	0
+la experiencia culinaria resultó exquisita, especialmente el tapas	1
+en general la cocina es decepcionante, especialmente el arepas	0
+en general la cocina es grasienta, especialmente el verduras	0
+en general la cocina es cara, especialmente el verduras	0
+la experiencia culinaria resultó memorable, especialmente el pan artesanal	1
+la gastronomía de la ciudad es muy buena, especialmente el pollo	1
+los restaurantes ofrecen una comida de baja calidad, especialmente el quesos	0
+en general la cocina es variada, especialmente el ceviche	1
+la gastronomía de la ciudad es fantástica, especialmente el helado	1
+los restaurantes ofrecen una comida recalentada, especialmente el asado	0
+la experiencia culinaria resultó pobre, especialmente el pan artesanal	0
+en general la cocina es exquisita, especialmente el pollo	1
+en general la cocina es insípida, especialmente el kebab	0
+en general la cocina es muy buena, especialmente el kebab	1
+los restaurantes ofrecen una comida mal preparada, especialmente el pollo	0
+la gastronomía de la ciudad es fresca, especialmente el vino	1
+no me gustó la comida local, fue mala, especialmente el curry	0
+no me gustó la comida local, fue mala, especialmente el quesos	0
+la experiencia culinaria resultó exquisita, especialmente el chocolate	1
+los restaurantes ofrecen una comida grasienta, especialmente el sushi	0
+la gastronomía de la ciudad es increíble, especialmente el pescado	1
+en general la cocina es memorable, especialmente el pan artesanal	1
+la gastronomía de la ciudad es excelente, especialmente el hamburguesa	1
+no me gustó la comida local, fue decepcionante, especialmente el café	0
+los restaurantes ofrecen una comida decepcionante, especialmente el helado	0
+los restaurantes ofrecen una comida de baja calidad, especialmente el curry	0
+en general la cocina es bien preparada, especialmente el ensaladas	1
+no me gustó la comida local, fue mala, especialmente el empanadas	0
+la experiencia culinaria resultó recalentada, especialmente el pollo	0
+en general la cocina es fantástica, especialmente el ensaladas	1
+en general la cocina es increíble, especialmente el postres	1
+la experiencia culinaria resultó seca, especialmente el helado	0
+la gastronomía de la ciudad fue grasienta, especialmente el pan artesanal	0
+la gastronomía de la ciudad fue grasienta, especialmente el paella	0
+en general la cocina es recalentada, especialmente el helado	0
+la experiencia culinaria resultó decepcionante, especialmente el pescado	0
+en general la cocina es espectacular, especialmente el ramen	1
+los restaurantes ofrecen una comida sin sabor, especialmente el bollería	0
+la gastronomía de la ciudad fue mal preparada, especialmente el café	0
+en general la cocina es exquisita, especialmente el chocolate	1
+la gastronomía de la ciudad es muy buena, especialmente el pescado	1
+la experiencia culinaria resultó insípida, especialmente el hamburguesa	0
+los restaurantes ofrecen una comida decepcionante, especialmente el chocolate	0
+en general la cocina es muy buena, especialmente el tacos	1
+en general la cocina es mala, especialmente el mariscos	0
+en general la cocina es aburrida, especialmente el café	0
+la gastronomía de la ciudad fue sin sabor, especialmente el ceviche	0
+me encantó la comida local, fue espectacular, especialmente el pizza	1
+la gastronomía de la ciudad fue recalentada, especialmente el arepas	0
+los restaurantes ofrecen una comida espectacular, especialmente el chocolate	1
+me encantó la comida local, fue muy buena, especialmente el paella	1
+los restaurantes ofrecen una comida espectacular, especialmente el café	1
+en general la cocina es memorable, especialmente el postres	1
+los restaurantes ofrecen una comida insípida, especialmente el vino	0
+me encantó la comida local, fue memorable, especialmente el asado	1
+en general la cocina es cara, especialmente el ceviche	0
+no me gustó la comida local, fue aburrida, especialmente el ramen	0
+me encantó la comida local, fue fresca, especialmente el postres	1
+en general la cocina es mala, especialmente el arepas	0
+la experiencia culinaria resultó variada, especialmente el hamburguesa	1
+los restaurantes ofrecen una comida sin sabor, especialmente el kebab	0
+los restaurantes ofrecen una comida fantástica, especialmente el empanadas	1
+no me gustó la comida local, fue pobre, especialmente el pizza	0
+los restaurantes ofrecen una comida muy buena, especialmente el asado	1
+me encantó la comida local, fue muy buena, especialmente el curry	1
+no me gustó la comida local, fue pobre, especialmente el café	0
+los restaurantes ofrecen una comida cara, especialmente el verduras	0
+me encantó la comida local, fue bien preparada, especialmente el falafel	1
+la gastronomía de la ciudad es variada, especialmente el sushi	1
+en general la cocina es deliciosa, especialmente el chocolate	1
+la experiencia culinaria resultó seca, especialmente el pan artesanal	0
+los restaurantes ofrecen una comida mal preparada, especialmente el verduras	0
+los restaurantes ofrecen una comida sin sabor, especialmente el sushi	0
+en general la cocina es auténtica, especialmente el kebab	1
+la gastronomía de la ciudad fue cara, especialmente el tacos	0
+en general la cocina es aburrida, especialmente el pescado	0
+la gastronomía de la ciudad fue seca, especialmente el curry	0
+la experiencia culinaria resultó terrible, especialmente el ramen	0
+los restaurantes ofrecen una comida grasienta, especialmente el chocolate	0
+la gastronomía de la ciudad es exquisita, especialmente el curry	1
+la gastronomía de la ciudad es de gran calidad, especialmente el pan artesanal	1
+los restaurantes ofrecen una comida pobre, especialmente el carne	0
+en general la cocina es sin sabor, especialmente el vino	0
+los restaurantes ofrecen una comida de baja calidad, especialmente el postres	0
+me encantó la comida local, fue fantástica, especialmente el pescado	1
+la experiencia culinaria resultó mala, especialmente el empanadas	0
+me encantó la comida local, fue fresca, especialmente el pasta	1
+la experiencia culinaria resultó exquisita, especialmente el ensaladas	1
+los restaurantes ofrecen una comida increíble, especialmente el tacos	1
+en general la cocina es sabrosa, especialmente el empanadas	1
+la gastronomía de la ciudad es memorable, especialmente el vino	1
+me encantó la comida local, fue sabrosa, especialmente el tacos	1
+no me gustó la comida local, fue poco variada, especialmente el falafel	0
+los restaurantes ofrecen una comida recalentada, especialmente el pasta	0
+los restaurantes ofrecen una comida aromática, especialmente el pan artesanal	1
+la experiencia culinaria resultó recalentada, especialmente el helado	0
+la gastronomía de la ciudad es exquisita, especialmente el pollo	1
+los restaurantes ofrecen una comida excelente, especialmente el ceviche	1
+la gastronomía de la ciudad es exquisita, especialmente el café	1
+me encantó la comida local, fue deliciosa, especialmente el verduras	1
+los restaurantes ofrecen una comida recalentada, especialmente el hamburguesa	0
+en general la cocina es decepcionante, especialmente el verduras	0
+la experiencia culinaria resultó de baja calidad, especialmente el empanadas	0
+la gastronomía de la ciudad fue terrible, especialmente el pizza	0
+los restaurantes ofrecen una comida increíble, especialmente el postres	1
+los restaurantes ofrecen una comida auténtica, especialmente el empanadas	1
+la experiencia culinaria resultó insípida, especialmente el falafel	0
+los restaurantes ofrecen una comida grasienta, especialmente el tapas	0
+en general la cocina es sabrosa, especialmente el pescado	1
+en general la cocina es aburrida, especialmente el pollo	0
+en general la cocina es increíble, especialmente el hamburguesa	1
+en general la cocina es mala, especialmente el café	0
+la gastronomía de la ciudad fue decepcionante, especialmente el bollería	0
+la gastronomía de la ciudad es excelente, especialmente el pasta	1
+no me gustó la comida local, fue cara, especialmente el café	0
+los restaurantes ofrecen una comida grasienta, especialmente el tacos	0
+la gastronomía de la ciudad es espectacular, especialmente el pizza	1
+los restaurantes ofrecen una comida cara, especialmente el kebab	0
+la experiencia culinaria resultó deliciosa, especialmente el arepas	1
+la gastronomía de la ciudad es variada, especialmente el tacos	1
+no me gustó la comida local, fue decepcionante, especialmente el postres	0
+los restaurantes ofrecen una comida sin sabor, especialmente el hamburguesa	0
+los restaurantes ofrecen una comida decepcionante, especialmente el falafel	0
+los restaurantes ofrecen una comida bien preparada, especialmente el pizza	1
+los restaurantes ofrecen una comida variada, especialmente el pollo	1
+me encantó la comida local, fue increíble, especialmente el pollo	1
+me encantó la comida local, fue bien preparada, especialmente el vino	1
+la experiencia culinaria resultó sabrosa, especialmente el quesos	1
+la gastronomía de la ciudad fue sin sabor, especialmente el helado	0
+en general la cocina es bien preparada, especialmente el falafel	1
+en general la cocina es auténtica, especialmente el sushi	1
+la gastronomía de la ciudad fue mal preparada, especialmente el pizza	0
+los restaurantes ofrecen una comida aromática, especialmente el ceviche	1
+en general la cocina es bien preparada, especialmente el ceviche	1
+la experiencia culinaria resultó decepcionante, especialmente el pollo	0
+no me gustó la comida local, fue fría, especialmente el tapas	0
+la gastronomía de la ciudad fue cara, especialmente el quesos	0
+la experiencia culinaria resultó mala, especialmente el pollo	0
+la experiencia culinaria resultó insípida, especialmente el tapas	0
+la gastronomía de la ciudad fue sin sabor, especialmente el ramen	0
+la experiencia culinaria resultó sabrosa, especialmente el pasta	1
+en general la cocina es increíble, especialmente el paella	1
+no me gustó la comida local, fue insípida, especialmente el quesos	0
+en general la cocina es mal preparada, especialmente el paella	0
+la gastronomía de la ciudad fue aburrida, especialmente el tacos	0
+no me gustó la comida local, fue mala, especialmente el tacos	0
+en general la cocina es exquisita, especialmente el bollería	1
+los restaurantes ofrecen una comida mal preparada, especialmente el tacos	0
+la experiencia culinaria resultó decepcionante, especialmente el paella	0
+en general la cocina es terrible, especialmente el carne	0
+no me gustó la comida local, fue aburrida, especialmente el falafel	0
+los restaurantes ofrecen una comida terrible, especialmente el pasta	0
+la experiencia culinaria resultó fantástica, especialmente el falafel	1
+la gastronomía de la ciudad es aromática, especialmente el mariscos	1
+no me gustó la comida local, fue grasienta, especialmente el chocolate	0
+la experiencia culinaria resultó mala, especialmente el paella	0
+la experiencia culinaria resultó de gran calidad, especialmente el ensaladas	1
+la gastronomía de la ciudad fue decepcionante, especialmente el pan artesanal	0
+los restaurantes ofrecen una comida espectacular, especialmente el postres	1
+los restaurantes ofrecen una comida sin sabor, especialmente el arepas	0
+me encantó la comida local, fue auténtica, especialmente el kebab	1
+en general la cocina es recalentada, especialmente el postres	0
+me encantó la comida local, fue increíble, especialmente el café	1
+en general la cocina es sin sabor, especialmente el quesos	0
+la experiencia culinaria resultó sin sabor, especialmente el hamburguesa	0
+la gastronomía de la ciudad fue terrible, especialmente el empanadas	0
+la experiencia culinaria resultó de gran calidad, especialmente el postres	1
+en general la cocina es decepcionante, especialmente el pan artesanal	0
+en general la cocina es fresca, especialmente el ceviche	1
+en general la cocina es espectacular, especialmente el pescado	1
+los restaurantes ofrecen una comida aromática, especialmente el helado	1
+me encantó la comida local, fue auténtica, especialmente el carne	1
+los restaurantes ofrecen una comida poco variada, especialmente el pescado	0
+me encantó la comida local, fue auténtica, especialmente el hamburguesa	1
+la experiencia culinaria resultó de baja calidad, especialmente el chocolate	0
+la experiencia culinaria resultó espectacular, especialmente el curry	1
+en general la cocina es excelente, especialmente el ceviche	1
+los restaurantes ofrecen una comida variada, especialmente el postres	1
+los restaurantes ofrecen una comida sin sabor, especialmente el ramen	0
+no me gustó la comida local, fue terrible, especialmente el falafel	0
+la gastronomía de la ciudad es sabrosa, especialmente el tacos	1
+los restaurantes ofrecen una comida terrible, especialmente el arepas	0
+los restaurantes ofrecen una comida insípida, especialmente el quesos	0
+no me gustó la comida local, fue grasienta, especialmente el empanadas	0
+no me gustó la comida local, fue aburrida, especialmente el tacos	0
+la gastronomía de la ciudad fue seca, especialmente el verduras	0
+en general la cocina es variada, especialmente el verduras	1
+los restaurantes ofrecen una comida increíble, especialmente el sushi	1
+la experiencia culinaria resultó memorable, especialmente el falafel	1
+la experiencia culinaria resultó cara, especialmente el sushi	0
+en general la cocina es sabrosa, especialmente el chocolate	1
+en general la cocina es decepcionante, especialmente el ceviche	0
+la gastronomía de la ciudad es excelente, especialmente el empanadas	1
+en general la cocina es seca, especialmente el tacos	0
+la gastronomía de la ciudad es memorable, especialmente el tapas	1
+en general la cocina es bien preparada, especialmente el pan artesanal	1
+en general la cocina es insípida, especialmente el café	0
+los restaurantes ofrecen una comida grasienta, especialmente el verduras	0
+los restaurantes ofrecen una comida cara, especialmente el café	0
+los restaurantes ofrecen una comida fría, especialmente el postres	0
+los restaurantes ofrecen una comida de gran calidad, especialmente el postres	1
+la experiencia culinaria resultó fría, especialmente el chocolate	0
+en general la cocina es pobre, especialmente el ceviche	0
+en general la cocina es excelente, especialmente el asado	1
+la experiencia culinaria resultó espectacular, especialmente el verduras	1
+no me gustó la comida local, fue fría, especialmente el pan artesanal	0
+los restaurantes ofrecen una comida fresca, especialmente el empanadas	1
+la experiencia culinaria resultó fría, especialmente el tacos	0
+la experiencia culinaria resultó exquisita, especialmente el vino	1
+la experiencia culinaria resultó de baja calidad, especialmente el pizza	0
+no me gustó la comida local, fue insípida, especialmente el helado	0
+la experiencia culinaria resultó fantástica, especialmente el sushi	1
+me encantó la comida local, fue aromática, especialmente el chocolate	1
+la experiencia culinaria resultó fría, especialmente el carne	0
+la gastronomía de la ciudad fue de baja calidad, especialmente el verduras	0
+los restaurantes ofrecen una comida sin sabor, especialmente el falafel	0
+en general la cocina es pobre, especialmente el quesos	0
+la experiencia culinaria resultó grasienta, especialmente el empanadas	0
+la experiencia culinaria resultó de baja calidad, especialmente el arepas	0
+la experiencia culinaria resultó recalentada, especialmente el carne	0
+la gastronomía de la ciudad es increíble, especialmente el café	1
+en general la cocina es auténtica, especialmente el ceviche	1
+me encantó la comida local, fue excelente, especialmente el quesos	1
+en general la cocina es sabrosa, especialmente el arepas	1
+la gastronomía de la ciudad fue pobre, especialmente el pizza	0
+la gastronomía de la ciudad es memorable, especialmente el pescado	1
+los restaurantes ofrecen una comida mal preparada, especialmente el pescado	0
+la gastronomía de la ciudad fue cara, especialmente el kebab	0
+los restaurantes ofrecen una comida bien preparada, especialmente el asado	1
+la experiencia culinaria resultó espectacular, especialmente el pizza	1
+me encantó la comida local, fue muy buena, especialmente el mariscos	1
+en general la cocina es excelente, especialmente el tacos	1
+me encantó la comida local, fue fresca, especialmente el pan artesanal	1
+los restaurantes ofrecen una comida mal preparada, especialmente el chocolate	0
+la experiencia culinaria resultó insípida, especialmente el arepas	0
+los restaurantes ofrecen una comida recalentada, especialmente el kebab	0
+me encantó la comida local, fue increíble, especialmente el pasta	1
+la gastronomía de la ciudad fue de baja calidad, especialmente el hamburguesa	0
+la experiencia culinaria resultó terrible, especialmente el ensaladas	0
+en general la cocina es poco variada, especialmente el sushi	0
+la experiencia culinaria resultó mala, especialmente el sushi	0
+me encantó la comida local, fue memorable, especialmente el curry	1
+la gastronomía de la ciudad fue recalentada, especialmente el falafel	0
+no me gustó la comida local, fue seca, especialmente el ramen	0
+en general la cocina es aburrida, especialmente el ramen	0
+la gastronomía de la ciudad es bien preparada, especialmente el tapas	1
+la gastronomía de la ciudad es fresca, especialmente el empanadas	1
+no me gustó la comida local, fue de baja calidad, especialmente el tacos	0
+la experiencia culinaria resultó espectacular, especialmente el sushi	1
+la gastronomía de la ciudad fue seca, especialmente el pasta	0
+la experiencia culinaria resultó aburrida, especialmente el pescado	0
+la experiencia culinaria resultó de gran calidad, especialmente el pescado	1
+la experiencia culinaria resultó aromática, especialmente el chocolate	1
+los restaurantes ofrecen una comida pobre, especialmente el pan artesanal	0
+la gastronomía de la ciudad fue sin sabor, especialmente el ensaladas	0
+los restaurantes ofrecen una comida bien preparada, especialmente el empanadas	1
+no me gustó la comida local, fue terrible, especialmente el pasta	0
+la gastronomía de la ciudad fue mala, especialmente el sushi	0
+no me gustó la comida local, fue cara, especialmente el paella	0
+en general la cocina es espectacular, especialmente el curry	1
+los restaurantes ofrecen una comida aromática, especialmente el hamburguesa	1
+me encantó la comida local, fue espectacular, especialmente el pasta	1
+en general la cocina es fría, especialmente el pizza	0
+la experiencia culinaria resultó memorable, especialmente el empanadas	1
+la gastronomía de la ciudad fue de baja calidad, especialmente el pescado	0
+la gastronomía de la ciudad fue mal preparada, especialmente el tacos	0
+la experiencia culinaria resultó muy buena, especialmente el empanadas	1
+los restaurantes ofrecen una comida decepcionante, especialmente el hamburguesa	0
+me encantó la comida local, fue aromática, especialmente el quesos	1
+en general la cocina es bien preparada, especialmente el sushi	1
+en general la cocina es grasienta, especialmente el pan artesanal	0
+no me gustó la comida local, fue poco variada, especialmente el empanadas	0
+los restaurantes ofrecen una comida de baja calidad, especialmente el pollo	0
+no me gustó la comida local, fue recalentada, especialmente el tapas	0
+me encantó la comida local, fue increíble, especialmente el pizza	1
+la gastronomía de la ciudad fue seca, especialmente el postres	0
+los restaurantes ofrecen una comida increíble, especialmente el kebab	1
+la gastronomía de la ciudad es fantástica, especialmente el falafel	1
+en general la cocina es exquisita, especialmente el arepas	1
+en general la cocina es recalentada, especialmente el verduras	0
+me encantó la comida local, fue excelente, especialmente el pizza	1
+no me gustó la comida local, fue insípida, especialmente el asado	0
+la experiencia culinaria resultó mal preparada, especialmente el café	0
+la experiencia culinaria resultó poco variada, especialmente el bollería	0
+en general la cocina es muy buena, especialmente el verduras	1
+la experiencia culinaria resultó pobre, especialmente el tacos	0
+los restaurantes ofrecen una comida exquisita, especialmente el bollería	1
+no me gustó la comida local, fue aburrida, especialmente el curry	0
+no me gustó la comida local, fue aburrida, especialmente el hamburguesa	0
+los restaurantes ofrecen una comida de baja calidad, especialmente el ramen	0
+los restaurantes ofrecen una comida deliciosa, especialmente el bollería	1
+en general la cocina es fantástica, especialmente el ceviche	1
+en general la cocina es variada, especialmente el helado	1
+la experiencia culinaria resultó sabrosa, especialmente el postres	1
+la gastronomía de la ciudad fue fría, especialmente el carne	0
+la gastronomía de la ciudad fue grasienta, especialmente el sushi	0
+en general la cocina es deliciosa, especialmente el hamburguesa	1
+la experiencia culinaria resultó de gran calidad, especialmente el bollería	1
+me encantó la comida local, fue increíble, especialmente el tacos	1
+en general la cocina es cara, especialmente el carne	0
+la experiencia culinaria resultó cara, especialmente el pizza	0
+la experiencia culinaria resultó increíble, especialmente el paella	1
+la gastronomía de la ciudad es aromática, especialmente el bollería	1
+la gastronomía de la ciudad fue mal preparada, especialmente el pan artesanal	0
+no me gustó la comida local, fue grasienta, especialmente el sushi	0
+la experiencia culinaria resultó fantástica, especialmente el curry	1
+los restaurantes ofrecen una comida aburrida, especialmente el tacos	0
+me encantó la comida local, fue exquisita, especialmente el pollo	1
+la experiencia culinaria resultó insípida, especialmente el curry	0
+en general la cocina es aromática, especialmente el quesos	1
+me encantó la comida local, fue deliciosa, especialmente el asado	1
+en general la cocina es de gran calidad, especialmente el kebab	1
+en general la cocina es aromática, especialmente el falafel	1
+la gastronomía de la ciudad es deliciosa, especialmente el asado	1
+la gastronomía de la ciudad fue insípida, especialmente el verduras	0
+la experiencia culinaria resultó aromática, especialmente el ensaladas	1
+la gastronomía de la ciudad fue poco variada, especialmente el sushi	0
+la experiencia culinaria resultó insípida, especialmente el carne	0
+los restaurantes ofrecen una comida espectacular, especialmente el ramen	1
+la gastronomía de la ciudad es espectacular, especialmente el carne	1
+la experiencia culinaria resultó mala, especialmente el verduras	0
+no me gustó la comida local, fue fría, especialmente el pizza	0
+la gastronomía de la ciudad es fantástica, especialmente el tacos	1
+la experiencia culinaria resultó sabrosa, especialmente el helado	1
+la experiencia culinaria resultó terrible, especialmente el tapas	0
+la gastronomía de la ciudad es de gran calidad, especialmente el chocolate	1
+los restaurantes ofrecen una comida excelente, especialmente el vino	1
+me encantó la comida local, fue de gran calidad, especialmente el chocolate	1
+no me gustó la comida local, fue de baja calidad, especialmente el ensaladas	0
+en general la cocina es mala, especialmente el pan artesanal	0
+los restaurantes ofrecen una comida cara, especialmente el pollo	0
+me encantó la comida local, fue sabrosa, especialmente el mariscos	1
+la gastronomía de la ciudad es muy buena, especialmente el tapas	1
+la experiencia culinaria resultó cara, especialmente el falafel	0
+la gastronomía de la ciudad es increíble, especialmente el pollo	1
+no me gustó la comida local, fue poco variada, especialmente el pescado	0
+los restaurantes ofrecen una comida increíble, especialmente el carne	1
+los restaurantes ofrecen una comida espectacular, especialmente el verduras	1
+la experiencia culinaria resultó recalentada, especialmente el ramen	0
+en general la cocina es poco variada, especialmente el verduras	0
+me encantó la comida local, fue espectacular, especialmente el helado	1
+la experiencia culinaria resultó de gran calidad, especialmente el paella	1
+la experiencia culinaria resultó mal preparada, especialmente el quesos	0
+los restaurantes ofrecen una comida pobre, especialmente el helado	0
+la experiencia culinaria resultó memorable, especialmente el quesos	1
+los restaurantes ofrecen una comida auténtica, especialmente el arepas	1
+la gastronomía de la ciudad es variada, especialmente el hamburguesa	1
+la experiencia culinaria resultó mala, especialmente el chocolate	0
+los restaurantes ofrecen una comida terrible, especialmente el ensaladas	0
+la gastronomía de la ciudad es aromática, especialmente el quesos	1
+la gastronomía de la ciudad fue mala, especialmente el pasta	0
+los restaurantes ofrecen una comida muy buena, especialmente el bollería	1
+la gastronomía de la ciudad es aromática, especialmente el café	1
+en general la cocina es variada, especialmente el sushi	1
+la gastronomía de la ciudad es auténtica, especialmente el pollo	1
+me encantó la comida local, fue muy buena, especialmente el arepas	1
+la experiencia culinaria resultó exquisita, especialmente el helado	1
+en general la cocina es fría, especialmente el tapas	0
+la experiencia culinaria resultó mal preparada, especialmente el tapas	0
+los restaurantes ofrecen una comida aromática, especialmente el postres	1
+no me gustó la comida local, fue poco variada, especialmente el quesos	0
+los restaurantes ofrecen una comida poco variada, especialmente el pizza	0
+no me gustó la comida local, fue cara, especialmente el curry	0
+los restaurantes ofrecen una comida mal preparada, especialmente el sushi	0
+la experiencia culinaria resultó variada, especialmente el pasta	1
+me encantó la comida local, fue de gran calidad, especialmente el ramen	1
+en general la cocina es excelente, especialmente el pasta	1
+los restaurantes ofrecen una comida espectacular, especialmente el ceviche	1
+en general la cocina es insípida, especialmente el asado	0
+la gastronomía de la ciudad es fresca, especialmente el chocolate	1
+me encantó la comida local, fue muy buena, especialmente el tacos	1
+los restaurantes ofrecen una comida mala, especialmente el empanadas	0
+los restaurantes ofrecen una comida de gran calidad, especialmente el pollo	1
+en general la cocina es recalentada, especialmente el chocolate	0
+la gastronomía de la ciudad es de gran calidad, especialmente el tapas	1
+me encantó la comida local, fue memorable, especialmente el pescado	1
+en general la cocina es variada, especialmente el tapas	1
+los restaurantes ofrecen una comida de baja calidad, especialmente el mariscos	0
+en general la cocina es terrible, especialmente el ramen	0
+la gastronomía de la ciudad es de gran calidad, especialmente el sushi	1
+la experiencia culinaria resultó excelente, especialmente el pasta	1
+la experiencia culinaria resultó auténtica, especialmente el falafel	1
+la experiencia culinaria resultó de baja calidad, especialmente el paella	0
+en general la cocina es auténtica, especialmente el arepas	1
+la experiencia culinaria resultó aromática, especialmente el ramen	1
+la gastronomía de la ciudad es auténtica, especialmente el vino	1
+la gastronomía de la ciudad fue poco variada, especialmente el arepas	0
+me encantó la comida local, fue deliciosa, especialmente el café	1
+la experiencia culinaria resultó fría, especialmente el pescado	0
+los restaurantes ofrecen una comida decepcionante, especialmente el asado	0
+me encantó la comida local, fue variada, especialmente el carne	1
+la gastronomía de la ciudad fue decepcionante, especialmente el ramen	0
+los restaurantes ofrecen una comida fresca, especialmente el curry	1
+los restaurantes ofrecen una comida muy buena, especialmente el arepas	1
+los restaurantes ofrecen una comida grasienta, especialmente el café	0
+en general la cocina es fresca, especialmente el tapas	1
+la experiencia culinaria resultó increíble, especialmente el curry	1
+la gastronomía de la ciudad es auténtica, especialmente el ensaladas	1
+en general la cocina es excelente, especialmente el sushi	1
+en general la cocina es cara, especialmente el kebab	0
+los restaurantes ofrecen una comida decepcionante, especialmente el mariscos	0
+la experiencia culinaria resultó auténtica, especialmente el verduras	1
+la experiencia culinaria resultó aburrida, especialmente el curry	0
+en general la cocina es aromática, especialmente el ramen	1
+los restaurantes ofrecen una comida recalentada, especialmente el quesos	0
+los restaurantes ofrecen una comida recalentada, especialmente el falafel	0
+los restaurantes ofrecen una comida sin sabor, especialmente el curry	0
+la gastronomía de la ciudad es memorable, especialmente el kebab	1
+en general la cocina es excelente, especialmente el hamburguesa	1
+la experiencia culinaria resultó mala, especialmente el tapas	0
+la gastronomía de la ciudad es fantástica, especialmente el pollo	1
+en general la cocina es bien preparada, especialmente el tacos	1
+la experiencia culinaria resultó de gran calidad, especialmente el pizza	1
+la experiencia culinaria resultó memorable, especialmente el sushi	1
+me encantó la comida local, fue variada, especialmente el ceviche	1
+me encantó la comida local, fue muy buena, especialmente el carne	1
+en general la cocina es insípida, especialmente el ceviche	0
+la experiencia culinaria resultó grasienta, especialmente el kebab	0
+la gastronomía de la ciudad es exquisita, especialmente el tapas	1
+la experiencia culinaria resultó aromática, especialmente el falafel	1
+en general la cocina es mal preparada, especialmente el vino	0
+la experiencia culinaria resultó exquisita, especialmente el sushi	1
+los restaurantes ofrecen una comida poco variada, especialmente el quesos	0
+la gastronomía de la ciudad es muy buena, especialmente el chocolate	1
+la experiencia culinaria resultó aburrida, especialmente el bollería	0
+los restaurantes ofrecen una comida insípida, especialmente el tacos	0
+la experiencia culinaria resultó de gran calidad, especialmente el helado	1
+me encantó la comida local, fue sabrosa, especialmente el empanadas	1
+en general la cocina es grasienta, especialmente el arepas	0
+los restaurantes ofrecen una comida increíble, especialmente el falafel	1
+me encantó la comida local, fue excelente, especialmente el paella	1
+en general la cocina es recalentada, especialmente el café	0
+la gastronomía de la ciudad fue cara, especialmente el café	0
+la experiencia culinaria resultó decepcionante, especialmente el café	0
+los restaurantes ofrecen una comida poco variada, especialmente el ramen	0
+en general la cocina es fría, especialmente el curry	0
+en general la cocina es aburrida, especialmente el carne	0
+en general la cocina es aburrida, especialmente el helado	0
+en general la cocina es increíble, especialmente el ceviche	1
+en general la cocina es mal preparada, especialmente el empanadas	0
+la experiencia culinaria resultó pobre, especialmente el café	0
+en general la cocina es pobre, especialmente el pescado	0
+los restaurantes ofrecen una comida pobre, especialmente el pollo	0
+la experiencia culinaria resultó excelente, especialmente el asado	1
+en general la cocina es sin sabor, especialmente el verduras	0
+los restaurantes ofrecen una comida insípida, especialmente el café	0
+en general la cocina es decepcionante, especialmente el paella	0
+no me gustó la comida local, fue seca, especialmente el chocolate	0
+en general la cocina es terrible, especialmente el empanadas	0
+la experiencia culinaria resultó grasienta, especialmente el asado	0
+no me gustó la comida local, fue poco variada, especialmente el tacos	0
+en general la cocina es exquisita, especialmente el vino	1
+no me gustó la comida local, fue fría, especialmente el curry	0
+en general la cocina es muy buena, especialmente el pescado	1
+los restaurantes ofrecen una comida pobre, especialmente el arepas	0
+me encantó la comida local, fue aromática, especialmente el kebab	1
+la gastronomía de la ciudad es de gran calidad, especialmente el kebab	1
+los restaurantes ofrecen una comida fantástica, especialmente el ensaladas	1
+no me gustó la comida local, fue de baja calidad, especialmente el postres	0
+los restaurantes ofrecen una comida fresca, especialmente el chocolate	1
+la gastronomía de la ciudad fue decepcionante, especialmente el arepas	0
+los restaurantes ofrecen una comida mala, especialmente el café	0
+los restaurantes ofrecen una comida aromática, especialmente el falafel	1
+me encantó la comida local, fue exquisita, especialmente el vino	1
+la gastronomía de la ciudad es muy buena, especialmente el postres	1
+la experiencia culinaria resultó decepcionante, especialmente el pasta	0
+los restaurantes ofrecen una comida aburrida, especialmente el postres	0
+en general la cocina es memorable, especialmente el pasta	1
+la gastronomía de la ciudad fue poco variada, especialmente el pasta	0
+me encantó la comida local, fue exquisita, especialmente el sushi	1
+la gastronomía de la ciudad fue decepcionante, especialmente el ceviche	0
+los restaurantes ofrecen una comida cara, especialmente el ensaladas	0
+la experiencia culinaria resultó fría, especialmente el café	0
+en general la cocina es poco variada, especialmente el pan artesanal	0
+no me gustó la comida local, fue seca, especialmente el sushi	0
+la experiencia culinaria resultó mal preparada, especialmente el curry	0
+la gastronomía de la ciudad fue terrible, especialmente el helado	0
+me encantó la comida local, fue espectacular, especialmente el pan artesanal	1
+la gastronomía de la ciudad fue insípida, especialmente el empanadas	0
+en general la cocina es exquisita, especialmente el pescado	1
+los restaurantes ofrecen una comida de gran calidad, especialmente el mariscos	1
+en general la cocina es aburrida, especialmente el ceviche	0
+no me gustó la comida local, fue decepcionante, especialmente el empanadas	0
+la experiencia culinaria resultó mal preparada, especialmente el helado	0
+en general la cocina es sin sabor, especialmente el ensaladas	0
+en general la cocina es grasienta, especialmente el pasta	0
+la gastronomía de la ciudad es excelente, especialmente el pescado	1
+la gastronomía de la ciudad fue seca, especialmente el pan artesanal	0
+la gastronomía de la ciudad es fresca, especialmente el hamburguesa	1
+los restaurantes ofrecen una comida insípida, especialmente el ramen	0
+los restaurantes ofrecen una comida aburrida, especialmente el curry	0
+en general la cocina es mal preparada, especialmente el pescado	0
+la experiencia culinaria resultó de baja calidad, especialmente el ramen	0
+me encantó la comida local, fue variada, especialmente el paella	1
+los restaurantes ofrecen una comida aburrida, especialmente el empanadas	0
+en general la cocina es de baja calidad, especialmente el asado	0
+no me gustó la comida local, fue seca, especialmente el empanadas	0
+la gastronomía de la ciudad es aromática, especialmente el postres	1
+en general la cocina es mal preparada, especialmente el pan artesanal	0
+los restaurantes ofrecen una comida fantástica, especialmente el pizza	1
+no me gustó la comida local, fue grasienta, especialmente el pescado	0
+los restaurantes ofrecen una comida aburrida, especialmente el vino	0
+los restaurantes ofrecen una comida espectacular, especialmente el falafel	1
+la gastronomía de la ciudad fue seca, especialmente el carne	0
+los restaurantes ofrecen una comida espectacular, especialmente el tacos	1
+la experiencia culinaria resultó recalentada, especialmente el paella	0
+los restaurantes ofrecen una comida poco variada, especialmente el sushi	0
+en general la cocina es grasienta, especialmente el postres	0
+la experiencia culinaria resultó sabrosa, especialmente el pan artesanal	1
+la experiencia culinaria resultó grasienta, especialmente el arepas	0
+los restaurantes ofrecen una comida seca, especialmente el postres	0
+no me gustó la comida local, fue de baja calidad, especialmente el sushi	0
+no me gustó la comida local, fue mal preparada, especialmente el carne	0
+los restaurantes ofrecen una comida auténtica, especialmente el ceviche	1
+no me gustó la comida local, fue pobre, especialmente el vino	0
+la experiencia culinaria resultó bien preparada, especialmente el tacos	1
+la experiencia culinaria resultó exquisita, especialmente el arepas	1
+la gastronomía de la ciudad fue aburrida, especialmente el asado	0
+me encantó la comida local, fue espectacular, especialmente el asado	1
+la experiencia culinaria resultó fantástica, especialmente el ceviche	1
+en general la cocina es increíble, especialmente el pollo	1
+la experiencia culinaria resultó exquisita, especialmente el kebab	1
+la gastronomía de la ciudad es de gran calidad, especialmente el pasta	1
+no me gustó la comida local, fue fría, especialmente el quesos	0
+la experiencia culinaria resultó muy buena, especialmente el ceviche	1
+en general la cocina es pobre, especialmente el ensaladas	0
+la experiencia culinaria resultó poco variada, especialmente el kebab	0
+los restaurantes ofrecen una comida seca, especialmente el pan artesanal	0
+en general la cocina es seca, especialmente el empanadas	0
+en general la cocina es seca, especialmente el helado	0
+me encantó la comida local, fue fantástica, especialmente el carne	1
+la experiencia culinaria resultó espectacular, especialmente el pasta	1
+me encantó la comida local, fue memorable, especialmente el paella	1
+en general la cocina es mal preparada, especialmente el quesos	0
+la gastronomía de la ciudad fue de baja calidad, especialmente el quesos	0
+la experiencia culinaria resultó espectacular, especialmente el postres	1
+no me gustó la comida local, fue aburrida, especialmente el pasta	0
+la gastronomía de la ciudad es muy buena, especialmente el hamburguesa	1
+en general la cocina es pobre, especialmente el pasta	0
+la experiencia culinaria resultó deliciosa, especialmente el helado	1
+en general la cocina es aromática, especialmente el mariscos	1
+la experiencia culinaria resultó increíble, especialmente el vino	1
+la experiencia culinaria resultó mala, especialmente el bollería	0
+los restaurantes ofrecen una comida exquisita, especialmente el tacos	1
+en general la cocina es variada, especialmente el hamburguesa	1
+en general la cocina es recalentada, especialmente el sushi	0
+me encantó la comida local, fue exquisita, especialmente el asado	1
+en general la cocina es muy buena, especialmente el arepas	1
+los restaurantes ofrecen una comida aromática, especialmente el tapas	1
+en general la cocina es deliciosa, especialmente el asado	1
+los restaurantes ofrecen una comida aburrida, especialmente el bollería	0
+en general la cocina es poco variada, especialmente el pizza	0
+la experiencia culinaria resultó recalentada, especialmente el vino	0
+los restaurantes ofrecen una comida muy buena, especialmente el postres	1
+la experiencia culinaria resultó muy buena, especialmente el ensaladas	1
+los restaurantes ofrecen una comida fría, especialmente el sushi	0
+no me gustó la comida local, fue recalentada, especialmente el chocolate	0
+me encantó la comida local, fue de gran calidad, especialmente el café	1
+en general la cocina es seca, especialmente el kebab	0
+en general la cocina es fantástica, especialmente el pizza	1
+los restaurantes ofrecen una comida increíble, especialmente el tapas	1
+los restaurantes ofrecen una comida muy buena, especialmente el café	1
+en general la cocina es fantástica, especialmente el helado	1
+la gastronomía de la ciudad fue terrible, especialmente el verduras	0
+la gastronomía de la ciudad es aromática, especialmente el pizza	1
+me encantó la comida local, fue aromática, especialmente el empanadas	1
+la gastronomía de la ciudad es increíble, especialmente el curry	1
+en general la cocina es increíble, especialmente el ramen	1
+la gastronomía de la ciudad fue sin sabor, especialmente el curry	0
+la gastronomía de la ciudad fue aburrida, especialmente el empanadas	0
+la experiencia culinaria resultó aburrida, especialmente el vino	0
+la experiencia culinaria resultó bien preparada, especialmente el bollería	1
+la gastronomía de la ciudad fue seca, especialmente el vino	0
+la gastronomía de la ciudad es espectacular, especialmente el pescado	1
+los restaurantes ofrecen una comida auténtica, especialmente el falafel	1
+la gastronomía de la ciudad fue terrible, especialmente el pan artesanal	0
+no me gustó la comida local, fue recalentada, especialmente el sushi	0
+la gastronomía de la ciudad es fantástica, especialmente el café	1
+la experiencia culinaria resultó variada, especialmente el bollería	1
+me encantó la comida local, fue memorable, especialmente el kebab	1
+la experiencia culinaria resultó terrible, especialmente el empanadas	0
+la experiencia culinaria resultó mal preparada, especialmente el ensaladas	0
+no me gustó la comida local, fue cara, especialmente el pollo	0
+la experiencia culinaria resultó cara, especialmente el pollo	0
+la experiencia culinaria resultó seca, especialmente el sushi	0
+la experiencia culinaria resultó fresca, especialmente el falafel	1
+la experiencia culinaria resultó grasienta, especialmente el pizza	0
+la gastronomía de la ciudad fue de baja calidad, especialmente el arepas	0
+en general la cocina es variada, especialmente el asado	1
+la gastronomía de la ciudad es bien preparada, especialmente el vino	1
+los restaurantes ofrecen una comida de baja calidad, especialmente el café	0
+la gastronomía de la ciudad es increíble, especialmente el tapas	1
+en general la cocina es bien preparada, especialmente el carne	1
+los restaurantes ofrecen una comida poco variada, especialmente el café	0
+en general la cocina es aromática, especialmente el pasta	1
+la gastronomía de la ciudad fue fría, especialmente el falafel	0
+en general la cocina es bien preparada, especialmente el paella	1
+me encantó la comida local, fue exquisita, especialmente el verduras	1
+los restaurantes ofrecen una comida sabrosa, especialmente el paella	1
+la experiencia culinaria resultó bien preparada, especialmente el mariscos	1
+en general la cocina es de baja calidad, especialmente el pizza	0
+en general la cocina es muy buena, especialmente el ramen	1
+la gastronomía de la ciudad fue grasienta, especialmente el postres	0
+la experiencia culinaria resultó exquisita, especialmente el ceviche	1
+la gastronomía de la ciudad es exquisita, especialmente el asado	1
+la gastronomía de la ciudad fue insípida, especialmente el mariscos	0
+no me gustó la comida local, fue cara, especialmente el verduras	0
+la gastronomía de la ciudad es increíble, especialmente el tacos	1
+no me gustó la comida local, fue recalentada, especialmente el kebab	0
+la gastronomía de la ciudad fue mal preparada, especialmente el pasta	0
+la gastronomía de la ciudad fue terrible, especialmente el arepas	0
+en general la cocina es espectacular, especialmente el empanadas	1
+me encantó la comida local, fue fresca, especialmente el falafel	1
+la experiencia culinaria resultó muy buena, especialmente el arepas	1
+la gastronomía de la ciudad fue recalentada, especialmente el pasta	0
+la gastronomía de la ciudad fue de baja calidad, especialmente el vino	0
+en general la cocina es grasienta, especialmente el mariscos	0
+en general la cocina es excelente, especialmente el falafel	1
+la experiencia culinaria resultó exquisita, especialmente el verduras	1
+la gastronomía de la ciudad fue terrible, especialmente el pollo	0
+la gastronomía de la ciudad fue grasienta, especialmente el café	0
+me encantó la comida local, fue sabrosa, especialmente el asado	1
+la experiencia culinaria resultó auténtica, especialmente el tacos	1
+los restaurantes ofrecen una comida fresca, especialmente el postres	1
+la experiencia culinaria resultó grasienta, especialmente el chocolate	0
+la gastronomía de la ciudad es aromática, especialmente el asado	1
+me encantó la comida local, fue de gran calidad, especialmente el empanadas	1
+los restaurantes ofrecen una comida de gran calidad, especialmente el bollería	1
+no me gustó la comida local, fue decepcionante, especialmente el falafel	0
+la experiencia culinaria resultó cara, especialmente el helado	0
+en general la cocina es decepcionante, especialmente el bollería	0
+la experiencia culinaria resultó auténtica, especialmente el asado	1
+la gastronomía de la ciudad fue sin sabor, especialmente el pizza	0
+en general la cocina es exquisita, especialmente el ramen	1
+no me gustó la comida local, fue pobre, especialmente el tapas	0
+me encantó la comida local, fue de gran calidad, especialmente el kebab	1
+la gastronomía de la ciudad es auténtica, especialmente el quesos	1
+los restaurantes ofrecen una comida fría, especialmente el vino	0
+no me gustó la comida local, fue seca, especialmente el hamburguesa	0
+la experiencia culinaria resultó grasienta, especialmente el pescado	0
+la experiencia culinaria resultó de baja calidad, especialmente el kebab	0
+la experiencia culinaria resultó insípida, especialmente el paella	0
+me encantó la comida local, fue bien preparada, especialmente el pizza	1
+la experiencia culinaria resultó mal preparada, especialmente el paella	0
+la experiencia culinaria resultó sin sabor, especialmente el arepas	0
+los restaurantes ofrecen una comida fría, especialmente el ramen	0
+los restaurantes ofrecen una comida fría, especialmente el arepas	0
+no me gustó la comida local, fue recalentada, especialmente el carne	0
+en general la cocina es seca, especialmente el sushi	0
+los restaurantes ofrecen una comida sin sabor, especialmente el ceviche	0
+la gastronomía de la ciudad fue mal preparada, especialmente el kebab	0
+los restaurantes ofrecen una comida sabrosa, especialmente el hamburguesa	1
+la gastronomía de la ciudad fue de baja calidad, especialmente el ceviche	0
+me encantó la comida local, fue auténtica, especialmente el sushi	1
+la gastronomía de la ciudad es auténtica, especialmente el pasta	1
+la gastronomía de la ciudad es fantástica, especialmente el mariscos	1
+la gastronomía de la ciudad es bien preparada, especialmente el empanadas	1
+no me gustó la comida local, fue mal preparada, especialmente el chocolate	0
+la experiencia culinaria resultó de baja calidad, especialmente el carne	0
+los restaurantes ofrecen una comida de baja calidad, especialmente el arepas	0
+la experiencia culinaria resultó recalentada, especialmente el empanadas	0
+me encantó la comida local, fue variada, especialmente el bollería	1
+la gastronomía de la ciudad fue mala, especialmente el carne	0
+me encantó la comida local, fue espectacular, especialmente el café	1
+la gastronomía de la ciudad es sabrosa, especialmente el helado	1
+la gastronomía de la ciudad fue pobre, especialmente el pan artesanal	0
+los restaurantes ofrecen una comida mala, especialmente el bollería	0
+la gastronomía de la ciudad es increíble, especialmente el chocolate	1
+la experiencia culinaria resultó fresca, especialmente el tapas	1
+los restaurantes ofrecen una comida decepcionante, especialmente el carne	0
+los restaurantes ofrecen una comida excelente, especialmente el café	1
+la experiencia culinaria resultó sabrosa, especialmente el ensaladas	1
+los restaurantes ofrecen una comida de gran calidad, especialmente el quesos	1
+la gastronomía de la ciudad es variada, especialmente el verduras	1
+la gastronomía de la ciudad es exquisita, especialmente el pizza	1
+los restaurantes ofrecen una comida excelente, especialmente el bollería	1
+la experiencia culinaria resultó fantástica, especialmente el kebab	1
+los restaurantes ofrecen una comida deliciosa, especialmente el quesos	1
+en general la cocina es fresca, especialmente el pan artesanal	1
+la experiencia culinaria resultó muy buena, especialmente el curry	1
+la experiencia culinaria resultó mal preparada, especialmente el carne	0
+los restaurantes ofrecen una comida espectacular, especialmente el arepas	1
+los restaurantes ofrecen una comida fantástica, especialmente el bollería	1
+me encantó la comida local, fue memorable, especialmente el hamburguesa	1
+en general la cocina es bien preparada, especialmente el quesos	1
+la gastronomía de la ciudad es increíble, especialmente el asado	1
+la gastronomía de la ciudad es sabrosa, especialmente el kebab	1
+los restaurantes ofrecen una comida recalentada, especialmente el verduras	0
+no me gustó la comida local, fue mal preparada, especialmente el hamburguesa	0
+los restaurantes ofrecen una comida fantástica, especialmente el chocolate	1
+en general la cocina es exquisita, especialmente el ceviche	1
+en general la cocina es terrible, especialmente el pizza	0
+en general la cocina es deliciosa, especialmente el falafel	1
+en general la cocina es recalentada, especialmente el curry	0
+los restaurantes ofrecen una comida sabrosa, especialmente el kebab	1
+la experiencia culinaria resultó fría, especialmente el pollo	0
+los restaurantes ofrecen una comida espectacular, especialmente el pescado	1
+la gastronomía de la ciudad fue decepcionante, especialmente el pollo	0
+los restaurantes ofrecen una comida memorable, especialmente el verduras	1
+no me gustó la comida local, fue pobre, especialmente el paella	0
+en general la cocina es poco variada, especialmente el empanadas	0
+no me gustó la comida local, fue decepcionante, especialmente el paella	0
+la experiencia culinaria resultó insípida, especialmente el sushi	0
+no me gustó la comida local, fue grasienta, especialmente el postres	0
+en general la cocina es de gran calidad, especialmente el falafel	1
+me encantó la comida local, fue excelente, especialmente el vino	1
+en general la cocina es decepcionante, especialmente el pizza	0
+los restaurantes ofrecen una comida memorable, especialmente el café	1
+en general la cocina es pobre, especialmente el verduras	0
+la experiencia culinaria resultó excelente, especialmente el vino	1
+en general la cocina es fría, especialmente el carne	0
+los restaurantes ofrecen una comida bien preparada, especialmente el ensaladas	1
+no me gustó la comida local, fue de baja calidad, especialmente el quesos	0
+los restaurantes ofrecen una comida excelente, especialmente el chocolate	1
+la gastronomía de la ciudad es espectacular, especialmente el pasta	1
+los restaurantes ofrecen una comida increíble, especialmente el helado	1
+los restaurantes ofrecen una comida recalentada, especialmente el bollería	0
+en general la cocina es memorable, especialmente el ensaladas	1
+los restaurantes ofrecen una comida memorable, especialmente el sushi	1
+la gastronomía de la ciudad fue grasienta, especialmente el falafel	0
+los restaurantes ofrecen una comida insípida, especialmente el tapas	0
+en general la cocina es excelente, especialmente el curry	1
+no me gustó la comida local, fue terrible, especialmente el paella	0
+la gastronomía de la ciudad es memorable, especialmente el helado	1
+me encantó la comida local, fue de gran calidad, especialmente el bollería	1
+la gastronomía de la ciudad fue pobre, especialmente el ceviche	0
+en general la cocina es sabrosa, especialmente el tacos	1
+los restaurantes ofrecen una comida decepcionante, especialmente el arepas	0
+la gastronomía de la ciudad es exquisita, especialmente el bollería	1
+en general la cocina es mala, especialmente el ceviche	0
+la gastronomía de la ciudad es fresca, especialmente el café	1
+los restaurantes ofrecen una comida memorable, especialmente el tapas	1
+me encantó la comida local, fue auténtica, especialmente el ramen	1
+en general la cocina es muy buena, especialmente el carne	1
+la experiencia culinaria resultó aburrida, especialmente el café	0
+no me gustó la comida local, fue poco variada, especialmente el postres	0
+no me gustó la comida local, fue pobre, especialmente el arepas	0
+los restaurantes ofrecen una comida deliciosa, especialmente el ceviche	1
+los restaurantes ofrecen una comida auténtica, especialmente el tapas	1
+la gastronomía de la ciudad es sabrosa, especialmente el sushi	1
+no me gustó la comida local, fue mala, especialmente el kebab	0
+los restaurantes ofrecen una comida auténtica, especialmente el pollo	1
+los restaurantes ofrecen una comida de gran calidad, especialmente el asado	1
+la experiencia culinaria resultó increíble, especialmente el carne	1
+la gastronomía de la ciudad fue decepcionante, especialmente el quesos	0
+la experiencia culinaria resultó seca, especialmente el empanadas	0
+la gastronomía de la ciudad es bien preparada, especialmente el chocolate	1
+los restaurantes ofrecen una comida poco variada, especialmente el verduras	0
+me encantó la comida local, fue exquisita, especialmente el pasta	1
+los restaurantes ofrecen una comida auténtica, especialmente el verduras	1
+la gastronomía de la ciudad fue grasienta, especialmente el arepas	0
+en general la cocina es excelente, especialmente el kebab	1
+los restaurantes ofrecen una comida variada, especialmente el pan artesanal	1
+la experiencia culinaria resultó mala, especialmente el mariscos	0
+me encantó la comida local, fue auténtica, especialmente el ensaladas	1
+la gastronomía de la ciudad es increíble, especialmente el bollería	1
+en general la cocina es mal preparada, especialmente el curry	0
+la experiencia culinaria resultó exquisita, especialmente el empanadas	1
+la gastronomía de la ciudad es auténtica, especialmente el pan artesanal	1
+en general la cocina es fantástica, especialmente el curry	1
+la experiencia culinaria resultó sabrosa, especialmente el pizza	1
+la experiencia culinaria resultó decepcionante, especialmente el empanadas	0
+la gastronomía de la ciudad fue seca, especialmente el café	0
+no me gustó la comida local, fue terrible, especialmente el pollo	0
+no me gustó la comida local, fue seca, especialmente el pizza	0
+la experiencia culinaria resultó pobre, especialmente el asado	0
+la experiencia culinaria resultó terrible, especialmente el helado	0
+la experiencia culinaria resultó increíble, especialmente el ensaladas	1
+la experiencia culinaria resultó de gran calidad, especialmente el carne	1
+en general la cocina es poco variada, especialmente el tapas	0
+la experiencia culinaria resultó auténtica, especialmente el sushi	1
+la experiencia culinaria resultó excelente, especialmente el bollería	1
+la experiencia culinaria resultó pobre, especialmente el ensaladas	0
+en general la cocina es exquisita, especialmente el café	1
+la gastronomía de la ciudad fue aburrida, especialmente el arepas	0
+en general la cocina es mal preparada, especialmente el helado	0
+la experiencia culinaria resultó aromática, especialmente el ceviche	1
+los restaurantes ofrecen una comida variada, especialmente el hamburguesa	1
+me encantó la comida local, fue fantástica, especialmente el ensaladas	1
+la gastronomía de la ciudad es aromática, especialmente el kebab	1
+los restaurantes ofrecen una comida mal preparada, especialmente el postres	0
+en general la cocina es memorable, especialmente el sushi	1
+la experiencia culinaria resultó grasienta, especialmente el helado	0
+me encantó la comida local, fue muy buena, especialmente el hamburguesa	1
+no me gustó la comida local, fue seca, especialmente el tacos	0
+la experiencia culinaria resultó aromática, especialmente el paella	1
+me encantó la comida local, fue exquisita, especialmente el café	1
+me encantó la comida local, fue bien preparada, especialmente el pollo	1
+la experiencia culinaria resultó aromática, especialmente el curry	1
+la gastronomía de la ciudad es espectacular, especialmente el bollería	1
+la gastronomía de la ciudad fue decepcionante, especialmente el mariscos	0
+me encantó la comida local, fue fantástica, especialmente el paella	1
+la experiencia culinaria resultó bien preparada, especialmente el paella	1
+me encantó la comida local, fue increíble, especialmente el curry	1
+los restaurantes ofrecen una comida fría, especialmente el pescado	0
+la experiencia culinaria resultó sin sabor, especialmente el helado	0
+en general la cocina es variada, especialmente el pizza	1
+en general la cocina es de baja calidad, especialmente el curry	0
+los restaurantes ofrecen una comida de gran calidad, especialmente el pescado	1
+los restaurantes ofrecen una comida sin sabor, especialmente el postres	0
+en general la cocina es de baja calidad, especialmente el arepas	0
+en general la cocina es pobre, especialmente el helado	0
+en general la cocina es sabrosa, especialmente el mariscos	1
+en general la cocina es aburrida, especialmente el hamburguesa	0
+la gastronomía de la ciudad es increíble, especialmente el ensaladas	1
+en general la cocina es insípida, especialmente el vino	0
+los restaurantes ofrecen una comida cara, especialmente el paella	0
+la experiencia culinaria resultó pobre, especialmente el quesos	0
+la experiencia culinaria resultó recalentada, especialmente el hamburguesa	0
+en general la cocina es excelente, especialmente el empanadas	1
+no me gustó la comida local, fue seca, especialmente el helado	0
+no me gustó la comida local, fue aburrida, especialmente el bollería	0
+los restaurantes ofrecen una comida aburrida, especialmente el arepas	0
+la experiencia culinaria resultó bien preparada, especialmente el falafel	1
+la gastronomía de la ciudad fue sin sabor, especialmente el pan artesanal	0
+en general la cocina es fresca, especialmente el pasta	1
+no me gustó la comida local, fue seca, especialmente el asado	0
+me encantó la comida local, fue memorable, especialmente el verduras	1
+la experiencia culinaria resultó decepcionante, especialmente el helado	0
+los restaurantes ofrecen una comida mal preparada, especialmente el arepas	0
+la gastronomía de la ciudad fue mala, especialmente el empanadas	0
+los restaurantes ofrecen una comida mal preparada, especialmente el ceviche	0
+en general la cocina es sabrosa, especialmente el quesos	1
+me encantó la comida local, fue muy buena, especialmente el helado	1
+la experiencia culinaria resultó variada, especialmente el pescado	1
+la experiencia culinaria resultó cara, especialmente el paella	0
+los restaurantes ofrecen una comida aromática, especialmente el sushi	1
+en general la cocina es aburrida, especialmente el ensaladas	0
+los restaurantes ofrecen una comida decepcionante, especialmente el curry	0
+los restaurantes ofrecen una comida sabrosa, especialmente el pescado	1
+la experiencia culinaria resultó bien preparada, especialmente el curry	1
+los restaurantes ofrecen una comida fantástica, especialmente el paella	1
+los restaurantes ofrecen una comida grasienta, especialmente el pasta	0
+me encantó la comida local, fue variada, especialmente el curry	1
+la experiencia culinaria resultó deliciosa, especialmente el kebab	1
+en general la cocina es fría, especialmente el vino	0
+la gastronomía de la ciudad fue grasienta, especialmente el carne	0
+en general la cocina es terrible, especialmente el asado	0
+me encantó la comida local, fue de gran calidad, especialmente el arepas	1
+en general la cocina es mala, especialmente el postres	0
+la gastronomía de la ciudad fue decepcionante, especialmente el pasta	0
+la gastronomía de la ciudad fue insípida, especialmente el tapas	0
+en general la cocina es fresca, especialmente el chocolate	1
+me encantó la comida local, fue variada, especialmente el pizza	1
+la gastronomía de la ciudad fue de baja calidad, especialmente el pan artesanal	0
+la experiencia culinaria resultó aromática, especialmente el pan artesanal	1
+la gastronomía de la ciudad es deliciosa, especialmente el pollo	1
+la gastronomía de la ciudad es aromática, especialmente el ensaladas	1
+no me gustó la comida local, fue terrible, especialmente el curry	0
+los restaurantes ofrecen una comida excelente, especialmente el carne	1
+los restaurantes ofrecen una comida aburrida, especialmente el quesos	0
+los restaurantes ofrecen una comida memorable, especialmente el kebab	1
+no me gustó la comida local, fue mal preparada, especialmente el pasta	0
+en general la cocina es cara, especialmente el sushi	0
+la gastronomía de la ciudad fue insípida, especialmente el hamburguesa	0
+en general la cocina es decepcionante, especialmente el ensaladas	0
+la experiencia culinaria resultó recalentada, especialmente el postres	0
+la experiencia culinaria resultó fresca, especialmente el empanadas	1
+los restaurantes ofrecen una comida de baja calidad, especialmente el pan artesanal	0
+me encantó la comida local, fue bien preparada, especialmente el arepas	1
+los restaurantes ofrecen una comida variada, especialmente el carne	1
+la experiencia culinaria resultó deliciosa, especialmente el café	1

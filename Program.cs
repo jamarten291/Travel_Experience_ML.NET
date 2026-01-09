@@ -1,151 +1,121 @@
 ﻿using System;
 using System.IO;
 using Microsoft.ML;
-using Microsoft.ML.Data;
-using System.Linq;
+using System;
+using Microsoft.ML;
 
-namespace Dataset_Prediction_MLNET
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main()
+        MLContext mlContext = new MLContext(seed: 1);
+
+        // ENTRENAR MODELO MONUMENTOS
+        var modeloMonumentos = EntrenarModelo(
+            mlContext,
+            "..\\..\\..\\Data\\monumentos.txt",
+            "ModeloMonumentos.zip"
+        );
+
+        // ENTRENAR MODELO OCIO
+        var modeloOcio = EntrenarModelo(
+            mlContext,
+            "..\\..\\..\\Data\\ocio.txt",
+            "ModeloOcio.zip"
+        );
+
+        // ENTRENAR MODELO OCIO
+        var modeloGastronomia = EntrenarModelo(
+            mlContext,
+            "..\\..\\..\\Data\\gastronomia.txt",
+            "ModeloGastronomia.zip"
+        );
+
+        // INPUT USUARIO
+        Console.WriteLine("OPINIÓN SOBRE MONUMENTOS:");
+        Console.Write("Escribe tu opinión: ");
+        string opinionMonumentos = Console.ReadLine();
+
+        Console.WriteLine();
+        Console.WriteLine("OPINIÓN SOBRE ACTIVIDADES DE OCIO:");
+        Console.Write("Escribe tu opinión: ");
+        string opinionOcio = Console.ReadLine();
+
+        Console.WriteLine();
+        Console.WriteLine("OPINIÓN SOBRE GASTRONOMÍA:");
+        Console.Write("Escribe tu opinión: ");
+        string opinionGastronomia = Console.ReadLine();
+
+        // PREDICCIONES
+        var engineMonumentos =
+            mlContext.Model.CreatePredictionEngine<OpinionData, OpinionPrediction>(modeloMonumentos);
+
+        var engineOcio =
+            mlContext.Model.CreatePredictionEngine<OpinionData, OpinionPrediction>(modeloOcio);
+
+        var engineGastronomia =
+            mlContext.Model.CreatePredictionEngine<OpinionData, OpinionPrediction>(modeloGastronomia);
+
+        var resultadoMonumentos = engineMonumentos.Predict(
+            new OpinionData { Text = opinionMonumentos });
+
+        var resultadoOcio = engineOcio.Predict(
+            new OpinionData { Text = opinionOcio });
+
+        var resultadoGastronomia = engineGastronomia.Predict(
+            new OpinionData { Text = opinionGastronomia });
+
+        // RESULTADO FINAL
+        Console.WriteLine();
+        Console.WriteLine("===== RESULTADO DE LA EXPERIENCIA =====");
+
+        Console.WriteLine($"Monumentos: {(resultadoMonumentos.Prediction ? "Le han gustado" : "No le han gustado")}");
+        Console.WriteLine($"Actividades de ocio: {(resultadoOcio.Prediction ? "Le han gustado" : "No le han gustado")}");
+        Console.WriteLine($"Gastronomía: {(resultadoGastronomia.Prediction ? "Le ha gustado la comida" : "No le ha gustado la comida")}");
+
+        Console.WriteLine();
+
+        // Crea una lista de opiniones y cuenta cuántas son positivas, tras eso las guarda en opinionesPositivas
+        int opinionesPositivas = new[]
         {
-            Console.Write("Introduce la ruta del archivo dataset (.txt): ");
-            string filePath = Console.ReadLine();
+            resultadoMonumentos.Prediction,
+            resultadoOcio.Prediction,
+            resultadoGastronomia.Prediction
+        }.Count(p => p);
 
-            if (!File.Exists(filePath))
-            {
-                Console.WriteLine("El archivo no existe.");
-                return;
-            }
-
-            var lines = File.ReadAllLines(filePath);
-
-            if (lines.Length < 2)
-            {
-                Console.WriteLine("El archivo no contiene suficientes datos.");
-                return;
-            }
-
-            // VALIDACIÓN DEL DATASET
-            if (!EsDatasetValido(lines))
-            {
-                Console.WriteLine("El archivo no es un dataset válido.");
-                Console.WriteLine("Debe contener TEXTO + TABULACIÓN + LABEL (0 o 1).");
-                return;
-            }
-
-            Console.WriteLine("Dataset válido. Entrenando modelo...");
-
-            var mlContext = new MLContext(seed: 1);
-
-            var dataView = mlContext.Data.LoadFromTextFile<SentimentData>(
-                path: filePath,
-                separatorChar: '\t',
-                hasHeader: false
-            );
-
-            // =========================
-            // SPLIT TRAIN / TEST
-            // =========================
-            var split = mlContext.Data.TrainTestSplit(dataView, testFraction: 0.2);
-
-            // =========================
-            // PIPELINE
-            // =========================
-            var pipeline =
-                mlContext.Transforms.Text.FeaturizeText("Features", nameof(SentimentData.Text))
-                .Append(mlContext.BinaryClassification.Trainers.SdcaLogisticRegression());
-
-            Console.WriteLine("Entrenando modelo...");
-            var model = pipeline.Fit(split.TrainSet);
-
-            // =========================
-            // EVALUACIÓN
-            // =========================
-            Console.WriteLine();
-            Console.WriteLine("EVALUACIÓN DEL MODELO");
-
-            var predictions = model.Transform(split.TestSet);
-            var metrics = mlContext.BinaryClassification.Evaluate(predictions);
-
-            Console.WriteLine($"Accuracy:   {metrics.Accuracy:P2}");
-            Console.WriteLine($"F1 Score:   {metrics.F1Score:P2}");
-            Console.WriteLine($"AUC:        {metrics.AreaUnderRocCurve:P2}");
-            Console.WriteLine($"Precision:  {metrics.PositivePrecision:P2}");
-            Console.WriteLine($"Recall:     {metrics.PositiveRecall:P2}");
-
-            // =========================
-            // PREDICCIÓN INTERACTIVA
-            // =========================
-            var engine =
-                mlContext.Model.CreatePredictionEngine<SentimentData, SentimentPrediction>(model);
-
-            Console.WriteLine();
-            Console.Write("Introduce un texto para analizar sentimiento: ");
-            string inputText = Console.ReadLine();
-
-            var prediction = engine.Predict(new SentimentData { Text = inputText });
-
-            Console.WriteLine();
-
-            while (string.IsNullOrWhiteSpace(inputText) == false)
-            {
-                Console.WriteLine($"Predicción: {(prediction.Prediction ? "POSITIVO" : "NEGATIVO")}");
-                Console.WriteLine($"Probabilidad: {prediction.Probability:P2}");
-                Console.WriteLine();
-                Console.Write("Introduce un texto para analizar sentimiento (o presiona ENTER para salir): ");
-                inputText = Console.ReadLine();
-                if (string.IsNullOrWhiteSpace(inputText))
-                    break;
-                prediction = engine.Predict(new SentimentData { Text = inputText });
-            }
+        if (opinionesPositivas == 3)
+        {
+            Console.WriteLine("La experiencia general del usuario en la ciudad ha sido MUY POSITIVA.");
         }
-
-        // =========================
-        // VALIDACIÓN DE DATASET
-        // =========================
-        static bool EsDatasetValido(string[] lines)
+        else if (opinionesPositivas >= 1)
         {
-            foreach (var line in lines)
-            {
-                if (!line.Contains('\t'))
-                    return false;
-
-                var parts = line.Split('\t');
-
-                if (parts.Length != 2)
-                    return false;
-
-                if (string.IsNullOrWhiteSpace(parts[0]))
-                    return false;
-
-                if (parts[1] != "0" && parts[1] != "1")
-                    return false;
-            }
-
-            return true;
+            Console.WriteLine("La experiencia general del usuario en la ciudad ha sido ACEPTABLE.");
+        }
+        else
+        {
+            Console.WriteLine("La experiencia general del usuario en la ciudad ha sido NEGATIVA.");
         }
     }
 
-    // =========================
-    // MODELOS ML.NET
-    // =========================
-    public class SentimentData
+    // MÉTODO DE ENTRENAMIENTO
+    static ITransformer EntrenarModelo(
+        MLContext mlContext,
+        string rutaDataset,
+        string nombreModelo)
     {
-        [LoadColumn(0)]
-        public string Text { get; set; }
+        var data = mlContext.Data.LoadFromTextFile<OpinionData>(
+            rutaDataset,
+            separatorChar: '\t',
+            hasHeader: false);
 
-        [LoadColumn(1)]
-        public bool Label { get; set; }
-    }
+        var pipeline =
+            mlContext.Transforms.Text.FeaturizeText("Features", nameof(OpinionData.Text))
+            .Append(mlContext.BinaryClassification.Trainers.SdcaLogisticRegression());
 
-    public class SentimentPrediction
-    {
-        [ColumnName("PredictedLabel")]
-        public bool Prediction { get; set; }
+        var model = pipeline.Fit(data);
 
-        public float Probability { get; set; }
-        public float Score { get; set; }
+        mlContext.Model.Save(model, data.Schema, nombreModelo);
+
+        return model;
     }
 }
